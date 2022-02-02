@@ -16,5 +16,6 @@ module.exports = {
     'prefer-const': 'off',
     'max-len': 'off',
     'no-unused-expressions': 'off',
+    'no-mixed-operators': 'off',
   },
 };
