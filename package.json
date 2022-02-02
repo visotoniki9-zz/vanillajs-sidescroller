@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-js-gamedev",
+  "name": "vanilla-js-side-scroller-game",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
